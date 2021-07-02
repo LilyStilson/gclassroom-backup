@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <title>Classroom ONL-11</title>
+    <link rel="shortcut icon" href="img/96x96_yellow_stroke_icon@1x.png" type="image/x-icon">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Google+Sans:100,300,400,500,700,900,100i,300i,400i,500i,700i,900i">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,700,900,100i,300i,400i,500i,700i,900i">
+    <link rel="stylesheet" href="index.css">
+    <script src="index.js"></script>
+</head>
+<body>
+    <!-- <div class="loading">
+        
+    </div> -->
+    <nav class="navigation">
+        <div class="room-info">
+            <div class="room-title"></div>
+            <div class="room-subtitle"></div>
+        </div>
+        <div class="tabs">
+            <a href="#" onclick="ChangeTab(event, 'tab-announcements')" class="tab" id="tab-announcements">Zprávy</a>
+            <a href="#" onclick="ChangeTab(event, 'tab-work')"class="tab" id="tab-work">Práce</a>
+            <a href="#" onclick="ChangeTab(event, 'tab-materials')"class="tab" id="tab-materials">Materiály</a>
+        </div>
+    </nav>
+
+    <div class="tab-container tab-announcements" style="display: none;">
+        <div class="card stream-header">
+            <div class="header-titles">
+                <div class="header-title"></div>
+                <div class="header-subtitle"></div>
+            </div>
+        </div>
+        <div class="announcements"></div>
+    </div>
+    <div class="tab-container tab-work" style="display: none;">
+        <!-- 
+        <div class="topic">
+            <div class="topic-header">39. týden</div>
+            <div class="work-content card" data-is-expanded="false" onclick="OpenWork(event, 'card')">
+                <div class="card-header">
+                    <img class="card-header-avatar work-avatar" src="img/work.svg"></img>
+                    <div class="card-header-title">
+                        <div class="work-title">Závěrečný test B2</div>
+                        <div class="work-date">Due Jun 4, 7:00 PM</div>
+                    </div>
+                </div>
+                <div class="card-content">
+                    Card Content text<br/>
+                    Card Content text<br/>
+                    Card Content text<br/>
+                    Card Content text<br/>
+                    Card Content text<br/>
+                    Card Content text<br/>
+                    v<br/>
+                    <div class="work-card-attachments">
+                        <a class="attachment" href="https://docs.google.com/document/d/1hsQGZd_xX1LX0asX2vzr32R1jq5_k9jcKdZxDHbddVo/edit?usp=drive_web" target="_blank">
+                            <div class="attachment-img-container">
+                                <img class="attachment-image" src="https://lh3.google.com/HHBf4RYmZc_7_F5vORq3E5WmrE7e7GRC0unGO-id4IR-nuKBxcZRXAHw6TMi-vjVMGrhKV9nMGMjxkZwUxPAutlQWSD_-pobpQ=s200"></img>
+                            </div>
+                            <div class="attachment-titles">
+                                <div class="attachment-title">Konstantin Romanets - Kopie dokumentu Závěrečný test var. 3, 2021.docx</div>
+                                <div class="attachment-subtitle">Word</div>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+                <div class="card-footer">Vladka Dobešová • Jun 4 (Edited Jun 4) • Max score: 150</div>
+            </div>
+        </div>
+         -->
+    </div>
+    <div class="tab-container tab-materials" style="display: none;"></div>
+
+    <footer>
+        <div class="credits">
+            <div class="footer-title">Vyvinuto s láskou pro skupinu ONL-11</div>
+            <div class="footer-build-information">Postaveno za </div>
+            <div class="footer-dev-information">
+                <div>Konstantin Romanets</div>
+                <a href="mailto:kostyaromanets2@gmail.com">kostyaromanets2@gmail.com</a> 
+                <br/>
+                <img class="logo" src="https://lh3.googleusercontent.com/a-/AOh14Ghmhv75BtDS6VZ078zQOjuE8hfUsBv1d09xIztm"></img>   
+            </div>
+        </div>
+    </footer>
+</body>
+</html>

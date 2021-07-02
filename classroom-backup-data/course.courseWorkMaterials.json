@@ -1,0 +1,855 @@
+{
+    "courseWorkMaterial": [
+      {
+        "courseId": "147994320359",
+        "id": "352054151923",
+        "title": "Sport",
+        "materials": [
+          {
+            "driveFile": {
+              "driveFile": {
+                "id": "1rF4VugkZzQHh7-W4__xLJx9SYKincINf",
+                "title": "SPORT.jpg",
+                "alternateLink": "https://drive.google.com/file/d/1rF4VugkZzQHh7-W4__xLJx9SYKincINf/view?usp=drive_web",
+                "thumbnailUrl": "https://lh3.googleusercontent.com/ZLa3ojWO_Cp8dvt9hkYNaQ8efO5j9lZOSCOIcrzQc-SsY10tNuk2JpiUCOsBtoNMhAci9lbrFgaWlrc=s200"
+              },
+              "shareMode": "VIEW"
+            }
+          },
+          {
+            "driveFile": {
+              "driveFile": {
+                "id": "1VM4zIKmFqleNQpEfpWVr6vEbPrxCdslF",
+                "title": "SPORT.pdf",
+                "alternateLink": "https://drive.google.com/file/d/1VM4zIKmFqleNQpEfpWVr6vEbPrxCdslF/view?usp=drive_web",
+                "thumbnailUrl": "https://lh3.googleusercontent.com/GYKPweQ8bKQgwDk3Oc7CSF2xxjxHe8q1Ea9a0AxcF2qW8yyueXJ5hQZEL-uVuK142q9o0_Ntku6nwGQ=s200"
+              },
+              "shareMode": "VIEW"
+            }
+          }
+        ],
+        "state": "PUBLISHED",
+        "alternateLink": "https://classroom.google.com/c/MTQ3OTk0MzIwMzU5/m/MzUyMDU0MTUxOTIz/details",
+        "creationTime": "2021-05-28T10:22:19.807Z",
+        "updateTime": "2021-05-28T10:24:57.504Z",
+        "creatorUserId": "101016955129154382144",
+        "topicId": "303963934211"
+      },
+      {
+        "courseId": "147994320359",
+        "id": "289794327190",
+        "title": "Kniha v češtině",
+        "materials": [
+          {
+            "driveFile": {
+              "driveFile": {
+                "id": "11b01p-74UQj6U-qjNKw2dHT6Ul4bCdzi",
+                "title": "POSLEDNÍ TVŮRCE, Vlaďka Dobešová.pdf",
+                "alternateLink": "https://drive.google.com/file/d/11b01p-74UQj6U-qjNKw2dHT6Ul4bCdzi/view?usp=drive_web",
+                "thumbnailUrl": "https://lh3.googleusercontent.com/XPdQs3MlxTp7bVWtAtaNt0FeWCsor1obFMINcPvzEePvAMkrJyri5xtheCAAqGgC_56zkU-SsHq5BEA=s200"
+              },
+              "shareMode": "VIEW"
+            }
+          }
+        ],
+        "state": "PUBLISHED",
+        "alternateLink": "https://classroom.google.com/c/MTQ3OTk0MzIwMzU5/m/Mjg5Nzk0MzI3MTkw/details",
+        "creationTime": "2021-05-06T10:22:52.183Z",
+        "updateTime": "2021-05-06T10:23:53.350Z",
+        "creatorUserId": "101016955129154382144"
+      },
+      {
+        "courseId": "147994320359",
+        "id": "263287227597",
+        "title": "Algoritmy",
+        "materials": [
+          {
+            "youtubeVideo": {
+              "id": "HsO2reAF0IA",
+              "title": "Algoritmy – NEZkreslená věda IV",
+              "alternateLink": "https://www.youtube.com/watch?v=HsO2reAF0IA",
+              "thumbnailUrl": "https://i.ytimg.com/vi/HsO2reAF0IA/default.jpg"
+            }
+          }
+        ],
+        "state": "PUBLISHED",
+        "alternateLink": "https://classroom.google.com/c/MTQ3OTk0MzIwMzU5/m/MjYzMjg3MjI3NTk3/details",
+        "creationTime": "2021-02-07T21:59:04.800Z",
+        "updateTime": "2021-02-07T21:59:24.934Z",
+        "creatorUserId": "108566478596200001107",
+        "topicId": "253141950716"
+      },
+      {
+        "courseId": "147994320359",
+        "id": "259671829620",
+        "title": "2. Atomy a molekuly",
+        "description": "Vlastnosti atomů a molekul. Brownův pohyb. Difúze.",
+        "materials": [
+          {
+            "driveFile": {
+              "driveFile": {
+                "id": "1XNacOfz7m7wHoF1lH_fZrx1UK-OoGcak",
+                "title": "2. Atomy a molekuly.pdf",
+                "alternateLink": "https://drive.google.com/file/d/1XNacOfz7m7wHoF1lH_fZrx1UK-OoGcak/view?usp=drive_web",
+                "thumbnailUrl": "https://lh3.googleusercontent.com/oX3_t4uHsM7oL5mKbDRiIkhazxjn2Qsa_sDY5g3UYU77bKHnxwyK0Wg_RKj-BoOIm9Nxd4pGo5Ycf1Q=s200"
+              },
+              "shareMode": "VIEW"
+            }
+          },
+          {
+            "youtubeVideo": {
+              "id": "nLUspwYZI98",
+              "title": "Co je atom? – NEZkreslená věda II",
+              "alternateLink": "https://www.youtube.com/watch?v=nLUspwYZI98",
+              "thumbnailUrl": "https://i.ytimg.com/vi/nLUspwYZI98/default.jpg"
+            }
+          }
+        ],
+        "state": "PUBLISHED",
+        "alternateLink": "https://classroom.google.com/c/MTQ3OTk0MzIwMzU5/m/MjU5NjcxODI5NjIw/details",
+        "creationTime": "2021-01-24T19:40:08.024Z",
+        "updateTime": "2021-02-07T21:57:06.648Z",
+        "creatorUserId": "108566478596200001107",
+        "topicId": "259671829575"
+      },
+      {
+        "courseId": "147994320359",
+        "id": "263287227357",
+        "title": "Videa",
+        "materials": [
+          {
+            "youtubeVideo": {
+              "id": "v2UEReHF7YY",
+              "title": "Jak funguje počítač? – NEZkreslená věda II",
+              "alternateLink": "https://www.youtube.com/watch?v=v2UEReHF7YY",
+              "thumbnailUrl": "https://i.ytimg.com/vi/v2UEReHF7YY/default.jpg"
+            }
+          },
+          {
+            "youtubeVideo": {
+              "id": "L05HGoaDkRo",
+              "title": "JAK FUNGUJE INTERNET – NEZkreslená věda V",
+              "alternateLink": "https://www.youtube.com/watch?v=L05HGoaDkRo",
+              "thumbnailUrl": "https://i.ytimg.com/vi/L05HGoaDkRo/default.jpg"
+            }
+          },
+          {
+            "youtubeVideo": {
+              "id": "zUHF1jWZPhE",
+              "title": "3D tisk – NEZkreslená věda IV",
+              "alternateLink": "https://www.youtube.com/watch?v=zUHF1jWZPhE",
+              "thumbnailUrl": "https://i.ytimg.com/vi/zUHF1jWZPhE/default.jpg"
+            }
+          },
+          {
+            "youtubeVideo": {
+              "id": "csDETSAVUQQ",
+              "title": "Hardware - Procesory",
+              "alternateLink": "https://www.youtube.com/watch?v=csDETSAVUQQ",
+              "thumbnailUrl": "https://i.ytimg.com/vi/csDETSAVUQQ/default.jpg"
+            }
+          },
+          {
+            "youtubeVideo": {
+              "id": "FBYuFuWUeUA",
+              "title": "Mysl a tvář robotů I. – Michaela Jirout Košová a Robin Kopecký (NOC VĚDCŮ)",
+              "alternateLink": "https://www.youtube.com/watch?v=FBYuFuWUeUA",
+              "thumbnailUrl": "https://i.ytimg.com/vi/FBYuFuWUeUA/default.jpg"
+            }
+          },
+          {
+            "youtubeVideo": {
+              "id": "72dNRTozBNg",
+              "title": "Etické problémy robotů a umělé inteligence – David Černý (NOC VĚDCŮ)",
+              "alternateLink": "https://www.youtube.com/watch?v=72dNRTozBNg",
+              "thumbnailUrl": "https://i.ytimg.com/vi/72dNRTozBNg/default.jpg"
+            }
+          }
+        ],
+        "state": "PUBLISHED",
+        "alternateLink": "https://classroom.google.com/c/MTQ3OTk0MzIwMzU5/m/MjYzMjg3MjI3MzU3/details",
+        "creationTime": "2021-02-07T21:49:31.509Z",
+        "updateTime": "2021-02-07T21:56:36.307Z",
+        "creatorUserId": "108566478596200001107",
+        "topicId": "269100379815"
+      },
+      {
+        "courseId": "147994320359",
+        "id": "269112471896",
+        "title": "5. Magnetické vlastnosti látek ",
+        "description": "Magnety a magnetismus. Magnetická indukce a magnetování. Magnetické pole a magnetické indukční čáry. Magnetické pole Země, kompas.",
+        "materials": [
+          {
+            "driveFile": {
+              "driveFile": {
+                "id": "1eqbalYh2CsJrn5SuZJd-qLlrIH04998S",
+                "title": "Magnetické vlastnosti látek.pdf",
+                "alternateLink": "https://drive.google.com/file/d/1eqbalYh2CsJrn5SuZJd-qLlrIH04998S/view?usp=drive_web",
+                "thumbnailUrl": "https://lh3.googleusercontent.com/9fcM48_3huoAlceM-keIdnHRK8OghVz1-21PcmDqGJox_VGHJW5keUVKv6HDyvE8MNvvEl4fcOM23bg=s200"
+              },
+              "shareMode": "VIEW"
+            }
+          },
+          {
+            "driveFile": {
+              "driveFile": {
+                "id": "1Efdd0hd-Ry1EOtu7R7cURM0gLIpduxO1",
+                "title": "Magnetické vlastnosti 2.pdf",
+                "alternateLink": "https://drive.google.com/file/d/1Efdd0hd-Ry1EOtu7R7cURM0gLIpduxO1/view?usp=drive_web",
+                "thumbnailUrl": "https://lh3.googleusercontent.com/EiiWJcO8Mihcgj78SISJB8npogIz7-uBcbn0UwKlhEr4F4FKmLgrfA6Ca8PprqulIq0IFtARsi3Y6Ug=s200"
+              },
+              "shareMode": "VIEW"
+            }
+          },
+          {
+            "youtubeVideo": {
+              "id": "WfRfOWeMoTM",
+              "title": "Magnetické vlastnosti látek",
+              "alternateLink": "https://www.youtube.com/watch?v=WfRfOWeMoTM",
+              "thumbnailUrl": "https://i.ytimg.com/vi/WfRfOWeMoTM/default.jpg"
+            }
+          },
+          {
+            "youtubeVideo": {
+              "id": "hVNEjG1YuKY",
+              "title": "F6 - Magnety, využití magnetů, magnetické pole",
+              "alternateLink": "https://www.youtube.com/watch?v=hVNEjG1YuKY",
+              "thumbnailUrl": "https://i.ytimg.com/vi/hVNEjG1YuKY/default.jpg"
+            }
+          },
+          {
+            "link": {
+              "url": "https://www.svetenergie.cz/cz/vim-proc/video/954",
+              "title": "Magnetické vlastnosti látek - Vím proč - Svět energie.cz",
+              "thumbnailUrl": "https://classroom.google.com/webthumbnail?url=https://www.svetenergie.cz/cz/vim-proc/video/954"
+            }
+          },
+          {
+            "youtubeVideo": {
+              "id": "P138KQn-SQ4",
+              "title": "Vodí – nevodí polovodič? – NEZkreslená věda II",
+              "alternateLink": "https://www.youtube.com/watch?v=P138KQn-SQ4",
+              "thumbnailUrl": "https://i.ytimg.com/vi/P138KQn-SQ4/default.jpg"
+            }
+          }
+        ],
+        "state": "PUBLISHED",
+        "alternateLink": "https://classroom.google.com/c/MTQ3OTk0MzIwMzU5/m/MjY5MTEyNDcxODk2/details",
+        "creationTime": "2021-02-07T21:31:04.405Z",
+        "updateTime": "2021-02-07T21:34:44.650Z",
+        "creatorUserId": "108566478596200001107",
+        "topicId": "259671829575"
+      },
+      {
+        "courseId": "147994320359",
+        "id": "263268845227",
+        "title": "Odkazy IT stránky",
+        "materials": [
+          {
+            "link": {
+              "url": "https://www.idnes.cz/technet",
+              "title": "Technet.cz – Technika kolem nás",
+              "thumbnailUrl": "https://classroom.google.com/webthumbnail?url=https://www.idnes.cz/technet"
+            }
+          },
+          {
+            "link": {
+              "url": "https://www.zive.cz/",
+              "title": "Živě.cz – O počítačích, internetu, vědě a technice",
+              "thumbnailUrl": "https://classroom.google.com/webthumbnail?url=https://www.zive.cz/"
+            }
+          },
+          {
+            "link": {
+              "url": "https://www.interval.cz/",
+              "title": "Interval.cz | Svět Internetu, Technologií a Bezpečnosti",
+              "thumbnailUrl": "https://classroom.google.com/webthumbnail?url=https://www.interval.cz/"
+            }
+          },
+          {
+            "link": {
+              "url": "https://www.grafika.cz/",
+              "title": "Grafika.cz - vše o počítačové grafice",
+              "thumbnailUrl": "https://classroom.google.com/webthumbnail?url=https://www.grafika.cz/"
+            }
+          },
+          {
+            "link": {
+              "url": "https://www.vutbr.cz/vutium/casopis",
+              "title": "časopis – VUT",
+              "thumbnailUrl": "https://classroom.google.com/webthumbnail?url=https://www.vutbr.cz/vutium/casopis"
+            }
+          },
+          {
+            "link": {
+              "url": "https://www.cvut.cz/casopisy",
+              "title": "Časopisy - Veřejný web - České vysoké učení technické v Praze",
+              "thumbnailUrl": "https://classroom.google.com/webthumbnail?url=https://www.cvut.cz/casopisy"
+            }
+          }
+        ],
+        "state": "PUBLISHED",
+        "alternateLink": "https://classroom.google.com/c/MTQ3OTk0MzIwMzU5/m/MjYzMjY4ODQ1MjI3/details",
+        "creationTime": "2021-02-07T18:26:17.798Z",
+        "updateTime": "2021-02-07T18:30:13.656Z",
+        "creatorUserId": "108566478596200001107",
+        "topicId": "269100379815"
+      },
+      {
+        "courseId": "147994320359",
+        "id": "263265726275",
+        "title": "Von Neumannova koncepce  a soustavy",
+        "description": "Von Neumannova koncepce počítače. Dvojková (binární) soustava. Šestnáctková (hexadecimální) soustava. ASCII tabulka. Booleova algebra. \n\n\n",
+        "materials": [
+          {
+            "driveFile": {
+              "driveFile": {
+                "id": "1wjE7GPTVTDGg8wtY8i3pbpf5GTp8Vcvs",
+                "title": "Informační a komunikační technologie.pdf",
+                "alternateLink": "https://drive.google.com/file/d/1wjE7GPTVTDGg8wtY8i3pbpf5GTp8Vcvs/view?usp=drive_web",
+                "thumbnailUrl": "https://lh3.googleusercontent.com/rITeK-902hu_Fo9YyiXnY6CBX3ug0jx8D9NmCLKGbfx6ZMDt_4czBB5ubvqZZqSwRTAMA91zhXA4epI=s200"
+              },
+              "shareMode": "VIEW"
+            }
+          }
+        ],
+        "state": "PUBLISHED",
+        "alternateLink": "https://classroom.google.com/c/MTQ3OTk0MzIwMzU5/m/MjYzMjY1NzI2Mjc1/details",
+        "creationTime": "2021-02-07T18:20:34.329Z",
+        "updateTime": "2021-02-07T18:20:48.082Z",
+        "creatorUserId": "108566478596200001107",
+        "topicId": "269100379815"
+      },
+      {
+        "courseId": "147994320359",
+        "id": "263265726169",
+        "title": "Procesory",
+        "materials": [
+          {
+            "driveFile": {
+              "driveFile": {
+                "id": "1ei-6lpcfl0Seky-XMPnuV6U-Xlf8ZSNw",
+                "title": "Procesory.pdf",
+                "alternateLink": "https://drive.google.com/file/d/1ei-6lpcfl0Seky-XMPnuV6U-Xlf8ZSNw/view?usp=drive_web",
+                "thumbnailUrl": "https://lh3.googleusercontent.com/9Y1-2jsea2v24FgnTwYLE94lOhbAXkkVdMHk53Jl5QwxklJUMc4wECm95y9ynwg1E5QfFZA-wr2MFog=s200"
+              },
+              "shareMode": "VIEW"
+            }
+          }
+        ],
+        "state": "PUBLISHED",
+        "alternateLink": "https://classroom.google.com/c/MTQ3OTk0MzIwMzU5/m/MjYzMjY1NzI2MTY5/details",
+        "creationTime": "2021-02-07T18:17:37.481Z",
+        "updateTime": "2021-02-07T18:17:44.342Z",
+        "creatorUserId": "108566478596200001107",
+        "topicId": "269100379815"
+      },
+      {
+        "courseId": "147994320359",
+        "id": "269100886699",
+        "title": "Základní pojmy",
+        "materials": [
+          {
+            "driveFile": {
+              "driveFile": {
+                "id": "1eVuLx7Ym3T8rfMnP5CC4rT5v-RKLDLwr",
+                "title": "Základní pojmy informatiky a výpočetní techniky.pdf",
+                "alternateLink": "https://drive.google.com/file/d/1eVuLx7Ym3T8rfMnP5CC4rT5v-RKLDLwr/view?usp=drive_web",
+                "thumbnailUrl": "https://lh3.googleusercontent.com/Z_AK0De_z8TFuaxm_TPyBq4WFSlAhIB1_l506D2QDzHoLjlu50WNWKm2_S56_stLnqTi5l15wf1hB0s=s200"
+              },
+              "shareMode": "VIEW"
+            }
+          }
+        ],
+        "state": "PUBLISHED",
+        "alternateLink": "https://classroom.google.com/c/MTQ3OTk0MzIwMzU5/m/MjY5MTAwODg2Njk5/details",
+        "creationTime": "2021-02-07T13:38:31.672Z",
+        "updateTime": "2021-02-07T13:38:39.785Z",
+        "creatorUserId": "108566478596200001107",
+        "topicId": "269100379815"
+      },
+      {
+        "courseId": "147994320359",
+        "id": "253141951165",
+        "title": "Mikrobiologie",
+        "materials": [
+          {
+            "link": {
+              "url": "https://www.umimefakta.cz/cviceni-mikrobiologie",
+              "title": "Mikrobiologie – Procvičování online – Umíme fakta",
+              "thumbnailUrl": "https://classroom.google.com/webthumbnail?url=https://www.umimefakta.cz/cviceni-mikrobiologie"
+            }
+          }
+        ],
+        "state": "PUBLISHED",
+        "alternateLink": "https://classroom.google.com/c/MTQ3OTk0MzIwMzU5/m/MjUzMTQxOTUxMTY1/details",
+        "creationTime": "2021-02-02T07:16:08.114Z",
+        "updateTime": "2021-02-02T07:16:40.750Z",
+        "creatorUserId": "101016955129154382144",
+        "topicId": "253170712370"
+      },
+      {
+        "courseId": "147994320359",
+        "id": "253141951153",
+        "title": "Genetika",
+        "materials": [
+          {
+            "link": {
+              "url": "https://www.umimefakta.cz/cviceni-genetika",
+              "title": "Genetika – Procvičování online – Umíme fakta",
+              "thumbnailUrl": "https://classroom.google.com/webthumbnail?url=https://www.umimefakta.cz/cviceni-genetika"
+            }
+          }
+        ],
+        "state": "PUBLISHED",
+        "alternateLink": "https://classroom.google.com/c/MTQ3OTk0MzIwMzU5/m/MjUzMTQxOTUxMTUz/details",
+        "creationTime": "2021-02-02T07:15:16.866Z",
+        "updateTime": "2021-02-02T07:15:31.817Z",
+        "creatorUserId": "101016955129154382144",
+        "topicId": "253170712370"
+      },
+      {
+        "courseId": "147994320359",
+        "id": "253141951133",
+        "title": "Biologie člověka",
+        "description": "Dýchací soustava, trávicí soustava, kostra, svaly ad.",
+        "materials": [
+          {
+            "link": {
+              "url": "https://www.umimefakta.cz/cviceni-clovek",
+              "title": "Člověk – Procvičování online – Umíme fakta",
+              "thumbnailUrl": "https://classroom.google.com/webthumbnail?url=https://www.umimefakta.cz/cviceni-clovek"
+            }
+          }
+        ],
+        "state": "PUBLISHED",
+        "alternateLink": "https://classroom.google.com/c/MTQ3OTk0MzIwMzU5/m/MjUzMTQxOTUxMTMz/details",
+        "creationTime": "2021-02-02T07:13:29.212Z",
+        "updateTime": "2021-02-02T07:14:27.981Z",
+        "creatorUserId": "101016955129154382144",
+        "topicId": "253170712370"
+      },
+      {
+        "courseId": "147994320359",
+        "id": "253141951104",
+        "title": "Živočichové",
+        "description": "Od žahavců k savcům plus zajímavosti, cvičení, hry.",
+        "materials": [
+          {
+            "link": {
+              "url": "https://www.umimefakta.cz/cviceni-zivocichove",
+              "title": "Živočichové – Procvičování online – Umíme fakta",
+              "thumbnailUrl": "https://classroom.google.com/webthumbnail?url=https://www.umimefakta.cz/cviceni-zivocichove"
+            }
+          }
+        ],
+        "state": "PUBLISHED",
+        "alternateLink": "https://classroom.google.com/c/MTQ3OTk0MzIwMzU5/m/MjUzMTQxOTUxMTA0/details",
+        "creationTime": "2021-02-02T07:10:53.576Z",
+        "updateTime": "2021-02-02T07:12:36.182Z",
+        "creatorUserId": "101016955129154382144",
+        "topicId": "253170712370"
+      },
+      {
+        "courseId": "147994320359",
+        "id": "253170712425",
+        "title": "Houby a lišejníky",
+        "description": "Skupiny hub, části houby, lišejníky, poznávačka ad.",
+        "materials": [
+          {
+            "link": {
+              "url": "https://www.umimefakta.cz/cviceni-houby-lisejniky",
+              "title": "Houby a lišejníky – Procvičování online – Umíme fakta",
+              "thumbnailUrl": "https://classroom.google.com/webthumbnail?url=https://www.umimefakta.cz/cviceni-houby-lisejniky"
+            }
+          }
+        ],
+        "state": "PUBLISHED",
+        "alternateLink": "https://classroom.google.com/c/MTQ3OTk0MzIwMzU5/m/MjUzMTcwNzEyNDI1/details",
+        "creationTime": "2021-02-02T07:04:19.222Z",
+        "updateTime": "2021-02-02T07:10:02.679Z",
+        "creatorUserId": "101016955129154382144",
+        "topicId": "253170712370"
+      },
+      {
+        "courseId": "147994320359",
+        "id": "253141951038",
+        "title": "Rostliny",
+        "description": "Vše o rostlinách - druhy, stavba, názvosloví ad. Rostliny nahosemenné, krytosemenné, poznávačka, pexeso a další cvičení.",
+        "materials": [
+          {
+            "link": {
+              "url": "https://www.umimefakta.cz/cviceni-rostliny",
+              "title": "Rostliny – Procvičování online – Umíme fakta",
+              "thumbnailUrl": "https://classroom.google.com/webthumbnail?url=https://www.umimefakta.cz/cviceni-rostliny"
+            }
+          }
+        ],
+        "state": "PUBLISHED",
+        "alternateLink": "https://classroom.google.com/c/MTQ3OTk0MzIwMzU5/m/MjUzMTQxOTUxMDM4/details",
+        "creationTime": "2021-02-02T07:08:06.787Z",
+        "updateTime": "2021-02-02T07:09:39.567Z",
+        "creatorUserId": "101016955129154382144",
+        "topicId": "253170712370"
+      },
+      {
+        "courseId": "147994320359",
+        "id": "253170712378",
+        "title": "Neživá příroda",
+        "description": "Stavba Země, horniny, minerály, půdy ad.",
+        "materials": [
+          {
+            "link": {
+              "url": "https://www.umimefakta.cz/cviceni-neziva-priroda",
+              "title": "Neživá příroda – geologie – Umíme fakta",
+              "thumbnailUrl": "https://classroom.google.com/webthumbnail?url=https://www.umimefakta.cz/cviceni-neziva-priroda"
+            }
+          }
+        ],
+        "state": "PUBLISHED",
+        "alternateLink": "https://classroom.google.com/c/MTQ3OTk0MzIwMzU5/m/MjUzMTcwNzEyMzc4/details",
+        "creationTime": "2021-02-02T07:02:29.156Z",
+        "updateTime": "2021-02-02T07:03:48.929Z",
+        "creatorUserId": "101016955129154382144",
+        "topicId": "253170712370"
+      },
+      {
+        "courseId": "147994320359",
+        "id": "253141950809",
+        "title": "Chemie",
+        "description": "Na webu najdete 6 podtémat a mnoho her na procvičování, například pexeso s českými názvy prvků, uhlovodíky ad. ",
+        "materials": [
+          {
+            "link": {
+              "url": "https://www.umimefakta.cz/chemie",
+              "title": "Umíme fakta – Zábavné procvičování znalostí",
+              "thumbnailUrl": "https://classroom.google.com/webthumbnail?url=https://www.umimefakta.cz/chemie"
+            }
+          }
+        ],
+        "state": "PUBLISHED",
+        "alternateLink": "https://classroom.google.com/c/MTQ3OTk0MzIwMzU5/m/MjUzMTQxOTUwODA5/details",
+        "creationTime": "2021-02-02T06:51:18.464Z",
+        "updateTime": "2021-02-02T06:54:15.160Z",
+        "creatorUserId": "101016955129154382144",
+        "topicId": "253141950857"
+      },
+      {
+        "courseId": "147994320359",
+        "id": "253141950774",
+        "title": "Geometrie",
+        "description": "Názvy těles, vzorečky, názvy operací, postupy, cvičení. Co je to konvexní úhel, co je tečna, sečna, mezikruží ad.",
+        "materials": [
+          {
+            "link": {
+              "url": "https://www.umimematiku.cz/geometrie",
+              "title": "Geometrie – Procvičování online – Umíme matiku",
+              "thumbnailUrl": "https://classroom.google.com/webthumbnail?url=https://www.umimematiku.cz/geometrie"
+            }
+          }
+        ],
+        "state": "PUBLISHED",
+        "alternateLink": "https://classroom.google.com/c/MTQ3OTk0MzIwMzU5/m/MjUzMTQxOTUwNzc0/details",
+        "creationTime": "2021-02-02T06:48:08.021Z",
+        "updateTime": "2021-02-02T06:50:28.605Z",
+        "creatorUserId": "101016955129154382144",
+        "topicId": "253141950716"
+      },
+      {
+        "courseId": "147994320359",
+        "id": "253141950721",
+        "title": "Aritmetika",
+        "description": "Nejlepší web pro aritmetiku. Obsahuje slovní pojmenování (jak číst desetinná čísla, zlomky ad.), postupy a cvičení. ",
+        "materials": [
+          {
+            "link": {
+              "url": "https://www.umimematiku.cz/aritmetika",
+              "title": "Aritmetika – Procvičování online – Umíme matiku",
+              "thumbnailUrl": "https://classroom.google.com/webthumbnail?url=https://www.umimematiku.cz/aritmetika"
+            }
+          }
+        ],
+        "state": "PUBLISHED",
+        "alternateLink": "https://classroom.google.com/c/MTQ3OTk0MzIwMzU5/m/MjUzMTQxOTUwNzIx/details",
+        "creationTime": "2021-02-02T06:43:21.240Z",
+        "updateTime": "2021-02-02T06:47:46.629Z",
+        "creatorUserId": "101016955129154382144",
+        "topicId": "253141950716"
+      },
+      {
+        "courseId": "147994320359",
+        "id": "252674803827",
+        "title": "4. Elektrické vlastnosti látek",
+        "description": "Elektrický náboj. Protony, neutrony, elektrony. Elektroskop, elektrometr a zdroje elektronického náboje. Elektronické vodiče a nevodiče. Elektrické pole. Tělesa v elektrickém poli. Elektrický výboj, blesk a ochrana proti němu (Prokop Diviš). ",
+        "materials": [
+          {
+            "driveFile": {
+              "driveFile": {
+                "id": "1jLuKupows2_7jwnuvOonXcfram_A_zGX",
+                "title": "Elektrické vlastnosti látek .pdf",
+                "alternateLink": "https://drive.google.com/file/d/1jLuKupows2_7jwnuvOonXcfram_A_zGX/view?usp=drive_web",
+                "thumbnailUrl": "https://lh3.googleusercontent.com/4Xs83tAFFLpweDqk02eCOSO9y4_hDN36rzjfSQG371nAynwujTxZZkheZwF5Cd6qA_Y582gi826FmSk=s200"
+              },
+              "shareMode": "VIEW"
+            }
+          }
+        ],
+        "state": "PUBLISHED",
+        "alternateLink": "https://classroom.google.com/c/MTQ3OTk0MzIwMzU5/m/MjUyNjc0ODAzODI3/details",
+        "creationTime": "2021-01-31T19:03:25.615Z",
+        "updateTime": "2021-01-31T19:08:25.702Z",
+        "creatorUserId": "108566478596200001107",
+        "topicId": "259671829575"
+      },
+      {
+        "courseId": "147994320359",
+        "id": "252391749904",
+        "title": "Části Prahy + prepozice",
+        "materials": [
+          {
+            "driveFile": {
+              "driveFile": {
+                "id": "1MLQsXpP-IIfby45ATv5EqKS8fL5_IA0x",
+                "title": "ČÁSTI PRAHY.docx",
+                "alternateLink": "https://drive.google.com/file/d/1MLQsXpP-IIfby45ATv5EqKS8fL5_IA0x/view?usp=drive_web",
+                "thumbnailUrl": "https://lh3.googleusercontent.com/W3KnBDIIvs0NgnR8ctsABz4WAsYrVVuYFlDSWxV7nEvj8_Jt68xTIDTkZa--mePvvAmqidNoCJ7qdWs=s200"
+              },
+              "shareMode": "VIEW"
+            }
+          }
+        ],
+        "state": "PUBLISHED",
+        "alternateLink": "https://classroom.google.com/c/MTQ3OTk0MzIwMzU5/m/MjUyMzkxNzQ5OTA0/details",
+        "creationTime": "2021-01-29T17:19:32.908Z",
+        "updateTime": "2021-01-29T17:20:55.141Z",
+        "creatorUserId": "101016955129154382144"
+      },
+      {
+        "courseId": "147994320359",
+        "id": "259671829647",
+        "title": "3. Vlastnosti kapalin a plynů",
+        "description": "Tlak v kapalinách a v plynech. Měření tlaku. Pascalův zákon. ",
+        "materials": [
+          {
+            "driveFile": {
+              "driveFile": {
+                "id": "18cL7x-3hzFvEBsuPP9XJxamiD58qe6jV",
+                "title": "Vlastnosti_kapalin_pascaluv_zakon_tlak.pptx",
+                "alternateLink": "https://drive.google.com/file/d/18cL7x-3hzFvEBsuPP9XJxamiD58qe6jV/view?usp=drive_web",
+                "thumbnailUrl": "https://lh3.googleusercontent.com/fmzzSpqo5RQq2MvjF5kVQ12Tz_nnVyyCyJqhyJVNUS1orF3hHDkEduKkmiLcgW8IYdDJv5Rf7t8o9y4=s200"
+              },
+              "shareMode": "VIEW"
+            }
+          },
+          {
+            "link": {
+              "url": "https://www.ceskatelevize.cz/porady/10319921345-rande-s-fyzikou/211563230150011-proudeni-kapalin-a-plynu/",
+              "title": "Rande s Fyzikou: Proudění kapalin a plynů — Česká televize",
+              "thumbnailUrl": "https://classroom.google.com/webthumbnail?url=https://www.ceskatelevize.cz/porady/10319921345-rande-s-fyzikou/211563230150011-proudeni-kapalin-a-plynu/"
+            }
+          },
+          {
+            "link": {
+              "url": "https://www.ceskatelevize.cz/porady/10319921345-rande-s-fyzikou/211563230150012-tlak-v-tekutinach-a-archimeduv-zakon/",
+              "title": "Rande s Fyzikou: Tlak v tekutinách — Česká televize",
+              "thumbnailUrl": "https://classroom.google.com/webthumbnail?url=https://www.ceskatelevize.cz/porady/10319921345-rande-s-fyzikou/211563230150012-tlak-v-tekutinach-a-archimeduv-zakon/"
+            }
+          }
+        ],
+        "state": "PUBLISHED",
+        "alternateLink": "https://classroom.google.com/c/MTQ3OTk0MzIwMzU5/m/MjU5NjcxODI5NjQ3/details",
+        "creationTime": "2021-01-24T19:41:23.264Z",
+        "updateTime": "2021-01-24T19:42:46.591Z",
+        "creatorUserId": "108566478596200001107",
+        "topicId": "259671829575"
+      },
+      {
+        "courseId": "147994320359",
+        "id": "259671829587",
+        "title": "1. Těleso a látka",
+        "description": "Vlastnosti těles a látek, skupenství látek. ",
+        "materials": [
+          {
+            "driveFile": {
+              "driveFile": {
+                "id": "1b0dIYSiYrCVYUz8p-JCFhqPvrRwNYRx6",
+                "title": "1. Těleso a látka.pdf",
+                "alternateLink": "https://drive.google.com/file/d/1b0dIYSiYrCVYUz8p-JCFhqPvrRwNYRx6/view?usp=drive_web",
+                "thumbnailUrl": "https://lh3.googleusercontent.com/7yn5fFlB8lamcclVvZlUYfZ2szQ92uT3nQDJ5bQLOsckuISsy62e0nBBuSX9Psn5Mipv1pD0TfPG498=s200"
+              },
+              "shareMode": "VIEW"
+            }
+          }
+        ],
+        "state": "PUBLISHED",
+        "alternateLink": "https://classroom.google.com/c/MTQ3OTk0MzIwMzU5/m/MjU5NjcxODI5NTg3/details",
+        "creationTime": "2021-01-24T19:38:50.169Z",
+        "updateTime": "2021-01-24T19:39:51.870Z",
+        "creatorUserId": "108566478596200001107",
+        "topicId": "259671829575"
+      },
+      {
+        "courseId": "147994320359",
+        "id": "233077971672",
+        "title": "Str. 20-22",
+        "description": "Přečtěte si text a připravte odpovědi na otázky.",
+        "materials": [
+          {
+            "driveFile": {
+              "driveFile": {
+                "id": "1dxkIFLZlMNhPaF73jyxpY0upfoBq_8P1",
+                "title": "ACFrOgAQej0ulK4AzaUqRtbUYDePpmHLhYE9w03DP3by4i38RoAfpL55Lkq1r1AZ56VBpdN6IK-n3mPASYUTZ_LE7bnHiLsq5HaQKNvwOJzhR6tyzratw0yzJbOhPpblMNjjsOdWkEZNh6ETBWUX.pdf",
+                "alternateLink": "https://drive.google.com/file/d/1dxkIFLZlMNhPaF73jyxpY0upfoBq_8P1/view?usp=drive_web",
+                "thumbnailUrl": "https://lh3.googleusercontent.com/SF2OmkAdTQXaXzOVTTp1qa2A1ii3-HJtjcPI884cAZr3EMdFTzy_6qXI83BGj9wK-6cW4jAJLfxAqng=s200"
+              },
+              "shareMode": "VIEW"
+            }
+          }
+        ],
+        "state": "PUBLISHED",
+        "alternateLink": "https://classroom.google.com/c/MTQ3OTk0MzIwMzU5/m/MjMzMDc3OTcxNjcy/details",
+        "creationTime": "2021-01-14T11:24:10.284Z",
+        "updateTime": "2021-01-14T11:25:28.858Z",
+        "creatorUserId": "101016955129154382144"
+      },
+      {
+        "courseId": "147994320359",
+        "id": "210010575153",
+        "title": "JAZYKOLAMY",
+        "description": "K procvičování ve volných chvílích :-)",
+        "materials": [
+          {
+            "link": {
+              "url": "https://wordwall.net/resource/7338348/jazykolamy",
+              "title": "Jazykolamy - Random cards",
+              "thumbnailUrl": "https://classroom.google.com/webthumbnail?url=https://wordwall.net/resource/7338348/jazykolamy"
+            }
+          }
+        ],
+        "state": "PUBLISHED",
+        "alternateLink": "https://classroom.google.com/c/MTQ3OTk0MzIwMzU5/m/MjEwMDEwNTc1MTUz/details",
+        "creationTime": "2020-11-26T13:08:25.755Z",
+        "updateTime": "2020-11-26T13:09:40.219Z",
+        "creatorUserId": "101016955129154382144"
+      },
+      {
+        "courseId": "147994320359",
+        "id": "209992910645",
+        "title": "Stupňování adverbií",
+        "materials": [
+          {
+            "driveFile": {
+              "driveFile": {
+                "id": "1Nw-KEB1FIvjfZQOjbC7nOu1X7gmfuWUm",
+                "title": "Žijeme v Česku, umíme česky123.jpg",
+                "alternateLink": "https://drive.google.com/file/d/1Nw-KEB1FIvjfZQOjbC7nOu1X7gmfuWUm/view?usp=drive_web",
+                "thumbnailUrl": "https://lh3.googleusercontent.com/phJpbEcn5wtpJXgqbhKOV33uBunv-JKFi91B4DB9s20OGvCfOu5cefyBlum9jh05NT6krN3XeEZ6nRo=s200"
+              },
+              "shareMode": "VIEW"
+            }
+          },
+          {
+            "driveFile": {
+              "driveFile": {
+                "id": "1wgKobn48OsSsh-r_JaYt2MInnaKycXyH",
+                "title": "Žijeme v Česku, umíme česky124.jpg",
+                "alternateLink": "https://drive.google.com/file/d/1wgKobn48OsSsh-r_JaYt2MInnaKycXyH/view?usp=drive_web",
+                "thumbnailUrl": "https://lh3.googleusercontent.com/yiYrDv7lnjoXyuIVGc069CuVrlWmeUZNz97XUMU3lC3Mr1oB9TDC4WmO9buuZelzBE0c_SdR_3QDbB0=s200"
+              },
+              "shareMode": "VIEW"
+            }
+          },
+          {
+            "driveFile": {
+              "driveFile": {
+                "id": "1strbInJH_PPopEwlPBBGDYFXHrClso_5",
+                "title": "Žijeme v Česku, umíme česky125.jpg",
+                "alternateLink": "https://drive.google.com/file/d/1strbInJH_PPopEwlPBBGDYFXHrClso_5/view?usp=drive_web",
+                "thumbnailUrl": "https://lh3.googleusercontent.com/CjxR9e6NycaywvlwZiveqSGVQjAdhgt47vhT9juIvOM9Q6rIiH977pQzftO1JOvm_P_3CdN8h5SVIgI=s200"
+              },
+              "shareMode": "VIEW"
+            }
+          },
+          {
+            "driveFile": {
+              "driveFile": {
+                "id": "1JZ-QFiE5fuL7i-tFCpb8IOV-yGGXyzdp",
+                "title": "Žijeme v Česku, umíme česky126.jpg",
+                "alternateLink": "https://drive.google.com/file/d/1JZ-QFiE5fuL7i-tFCpb8IOV-yGGXyzdp/view?usp=drive_web",
+                "thumbnailUrl": "https://lh3.googleusercontent.com/QjY4HGE1EOGo32CUyTEVCHvMOCyr3fHkzxPb_tt9Ai9QtttK9Ib5U4lAQfG88neT8bm7zLBCM-BbVJc=s200"
+              },
+              "shareMode": "VIEW"
+            }
+          },
+          {
+            "driveFile": {
+              "driveFile": {
+                "id": "1NWq_NnG69ut63t6Ot5mj-keuJ-lugaSL",
+                "title": "Žijeme v Česku, umíme česky127.jpg",
+                "alternateLink": "https://drive.google.com/file/d/1NWq_NnG69ut63t6Ot5mj-keuJ-lugaSL/view?usp=drive_web",
+                "thumbnailUrl": "https://lh3.googleusercontent.com/xeJb65dH25YJSYT8Pe23pjIsT8SFjPPDkCKpD8zA4eq-5n3aothI_wC6HeV-96WN8yEBDWw21OvpQgY=s200"
+              },
+              "shareMode": "VIEW"
+            }
+          },
+          {
+            "driveFile": {
+              "driveFile": {
+                "id": "1gvEGT3gbcSU2pQwxpW5Cdr7zMibIfX7y",
+                "title": "Žijeme v Česku, umíme česky128.jpg",
+                "alternateLink": "https://drive.google.com/file/d/1gvEGT3gbcSU2pQwxpW5Cdr7zMibIfX7y/view?usp=drive_web",
+                "thumbnailUrl": "https://lh3.googleusercontent.com/jnyfXk1YRn5aJLPyWlt036ZpukCcNS4eX-g0qg9XyPlkfO8bubOIsHjY8XqR7dWTul23TZL49bHG4Vs=s200"
+              },
+              "shareMode": "VIEW"
+            }
+          }
+        ],
+        "state": "PUBLISHED",
+        "alternateLink": "https://classroom.google.com/c/MTQ3OTk0MzIwMzU5/m/MjA5OTkyOTEwNjQ1/details",
+        "creationTime": "2020-11-26T10:18:39.793Z",
+        "updateTime": "2020-11-26T10:19:39.566Z",
+        "creatorUserId": "101016955129154382144"
+      },
+      {
+        "courseId": "147994320359",
+        "id": "229163761723",
+        "title": "Práce v ČR",
+        "materials": [
+          {
+            "driveFile": {
+              "driveFile": {
+                "id": "1srp_i8n_99DQlI0ODAixql3GZU7L2Kp-",
+                "alternateLink": "https://drive.google.com/open?id=1srp_i8n_99DQlI0ODAixql3GZU7L2Kp-"
+              },
+              "shareMode": "VIEW"
+            }
+          },
+          {
+            "driveFile": {
+              "driveFile": {
+                "id": "1pJ3TWJ1x93xxlZDctlABjH9mUgr78NXi",
+                "alternateLink": "https://drive.google.com/open?id=1pJ3TWJ1x93xxlZDctlABjH9mUgr78NXi"
+              },
+              "shareMode": "VIEW"
+            }
+          },
+          {
+            "driveFile": {
+              "driveFile": {
+                "id": "1KqVciW86azdC9K0fShxFR6rzSXgdJIOv",
+                "alternateLink": "https://drive.google.com/open?id=1KqVciW86azdC9K0fShxFR6rzSXgdJIOv"
+              },
+              "shareMode": "VIEW"
+            }
+          }
+        ],
+        "state": "PUBLISHED",
+        "alternateLink": "https://classroom.google.com/c/MTQ3OTk0MzIwMzU5/m/MjI5MTYzNzYxNzIz/details",
+        "creationTime": "2020-11-12T13:12:46.851Z",
+        "updateTime": "2020-11-12T13:16:26.222Z",
+        "creatorUserId": "101016955129154382144",
+        "topicId": "165917822373"
+      }
+    ]
+  }
+  

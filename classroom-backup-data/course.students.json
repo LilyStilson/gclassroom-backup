@@ -1,0 +1,29 @@
+{
+    "students": [
+      {
+        "courseId": "147994320359",
+        "userId": "109573552065111581845",
+        "profile": {
+          "id": "109573552065111581845",
+          "name": {
+            "givenName": "Konstantin",
+            "familyName": "Romanets",
+            "fullName": "Konstantin Romanets"
+          },
+          "emailAddress": "kostyaromanets2@gmail.com",
+          "photoUrl": "//lh3.googleusercontent.com/a-/AOh14GiwUA_BNMfEiQrYQkojGhsB8FYLmNt2M0wdVxXC",
+          "permissions": [
+            {
+              "permission": "CREATE_COURSE"
+            }
+          ]
+        },
+        "studentWorkFolder": {
+          "id": "0Bw-h-Qc8nW0pfi1ZOU1hTDZldUhnYmgta2ZRNmJNMEhmNWs2RXJfbnNhY3FmZXhvdjdyd1U",
+          "title": "ONL-11 Zoom ID: 926 747 5476 (po-st); 922 533 5111 (čt-pá)",
+          "alternateLink": "https://drive.google.com/drive/folders/0Bw-h-Qc8nW0pfi1ZOU1hTDZldUhnYmgta2ZRNmJNMEhmNWs2RXJfbnNhY3FmZXhvdjdyd1U?resourcekey=0-CAxGHPs2xdcRjMngkTAI-w"
+        }
+      }
+    ]
+  }
+  

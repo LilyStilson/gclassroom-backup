@@ -1,0 +1,77 @@
+{
+    "teachers": [
+      {
+        "courseId": "147994320359",
+        "userId": "110513551501967897195",
+        "profile": {
+          "id": "110513551501967897195",
+          "name": {
+            "givenName": "Uliana",
+            "familyName": "Devyatova",
+            "fullName": "Uliana Devyatova"
+          },
+          "photoUrl": "//lh3.googleusercontent.com/a-/AOh14Gim7Xs7M_fwyPKu4gaAUjC21hW4LZ_61lrcFSAzQw",
+          "permissions": [
+            {
+              "permission": "CREATE_COURSE"
+            }
+          ]
+        }
+      },
+      {
+        "courseId": "147994320359",
+        "userId": "101016955129154382144",
+        "profile": {
+          "id": "101016955129154382144",
+          "name": {
+            "givenName": "Vladka",
+            "familyName": "Dobešová",
+            "fullName": "Vladka Dobešová"
+          },
+          "photoUrl": "//lh3.googleusercontent.com/a-/AOh14GiUVZ-JN6aZ2NpH4BavFLrCwxgFudfTn2WCmsAtaQ",
+          "permissions": [
+            {
+              "permission": "CREATE_COURSE"
+            }
+          ]
+        }
+      },
+      {
+        "courseId": "147994320359",
+        "userId": "103628296164415053630",
+        "profile": {
+          "id": "103628296164415053630",
+          "name": {
+            "givenName": "Daria",
+            "familyName": "Mikerina",
+            "fullName": "Daria Mikerina"
+          },
+          "photoUrl": "//lh3.googleusercontent.com/a-/AOh14Gi0E4r9lZ2Y_pXErfyqx3vpensIQrvPN_GSbMZjeg",
+          "permissions": [
+            {
+              "permission": "CREATE_COURSE"
+            }
+          ]
+        }
+      },
+      {
+        "courseId": "147994320359",
+        "userId": "108566478596200001107",
+        "profile": {
+          "id": "108566478596200001107",
+          "name": {
+            "givenName": "Alexandra",
+            "familyName": "Goncarenko",
+            "fullName": "Alexandra Goncarenko"
+          },
+          "photoUrl": "//lh3.googleusercontent.com/a-/AOh14Gja4fJ72qXV5gkbmQsqGRLVl21_lAz945RXqCzvEQ",
+          "permissions": [
+            {
+              "permission": "CREATE_COURSE"
+            }
+          ]
+        }
+      }
+    ]
+  }
+  
