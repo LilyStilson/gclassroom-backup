@@ -327,7 +327,7 @@ window.addEventListener('load', async () => {
 
     UpdateProgress(0.60)
 
-    ChangeTab(null, 'tab-work')
+    ChangeTab(null, 'tab-announcements')
 
     UpdateProgress(1)
     
